@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.bwbeauty.com.hk/wp-content/uploads/2017/07/TVB_Jade.png" group-title="香港频道",TVB翡翠台https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.bwbeauty.com.hk/wp-content/uploads/2017/07/TVB_Jade.png" group-title="香港频道",TVB翡翠台https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/67/TV1_Malaisie_Logo.png" group-title="马来西亚频道",TV1 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/67/TV1_Malaisie_Logo.png" group-title="马来西亚频道",TV1 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 

@@ -2,3 +2,5 @@
 
 #EXTINF:-1 tvg-logo="https://www.bwbeauty.com.hk/wp-content/uploads/2017/07/TVB_Jade.png" group-title="香港频道",TVB翡翠台
 https://flv3948069e.live.126.net/live/faded0b6867e69451694ddf52f38e231.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/67/TV1_Malaisie_Logo.png" group-title="马来西亚频道",TV1 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd

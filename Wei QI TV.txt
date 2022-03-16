@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d7/TV_1%28Malaysia%29baru.png" group-title="马来西亚频道", TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV2-May2021-JPG.jpg" group-title="马来西亚频道", TV2
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/569/648/png-clipart-tv2-radio-televisyen-malaysia-tv1-logo-tvi-tv2-radio-televisyen-malaysia.png" group-title="马来西亚频道", TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd

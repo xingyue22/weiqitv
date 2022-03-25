@@ -167,7 +167,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://e1.monidai.com/ppvod/8D
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://e1.monidai.com/ppvod/FE10F4EDA505EC53A4EBCD7BEC9CE5CA.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/D0x0PTGg/image.jpg" group-title="绝代商骄", 绝代商骄 【第五集】
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://qq.sd-play.com/20211104/kUrNUIoP/hls/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://e1.monidai.com/ppvod/51B44B571E10D1FC73D6FDE82C6DE3E1.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/D0x0PTGg/image.jpg" group-title="绝代商骄", 绝代商骄 【第六集】
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://e1.monidai.com/ppvod/6FED05BB3F43D1A27E37EBA895E6F0EB.m3u8
@@ -219,6 +219,83 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://e1.monidai.com/ppvod/27
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/D0x0PTGg/image.jpg" group-title="绝代商骄", 绝代商骄 【大结局】
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://e1.monidai.com/ppvod/86CA7199D3F7442F5C4D6C94463A40E6.m3u8
+
+
+今宵大厦
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【预告片】
+https://upos-hz-mirrorakam.akamaized.net/upgcxcode/25/65/115496525/115496525-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1648184315&gen=playurlv2&os=akam&oi=1938234909&trid=32f6b9959c76433aa74164e96f7dc323u&platform=pc&upsig=9e79abe81016f484f24eca457dd7d66a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&hdnts=exp=1648184315~hmac=75e7198fbcb5436f17d01b1c844c028e37055c2dbe7e1aea2c1bc11d5554c76d&mid=0&bvc=vod&nettype=0&orderid=0,1&agrr=1&bw=110156&logo=80000000
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第一集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20190917/DZkUYxV8/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第二集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20190918/7K7LpyVd/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第三集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20190919/q6VVbi8l/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第四集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20190920/KmoQuHeP/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第五集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20190921/wi5rkyPy/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第六集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20190924/EV6qUgxn/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第七集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20190925/uRsAxKVY/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第八集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20190926/ib5yPl2B/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第九集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20190927/mC8jv356/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第十集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20190928/YKEVrkAm/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第十一集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20191001/p92MPJuc/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第十二集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20191003/5fT2w8dh/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第十三集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20191004/FMaLQGcP/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第十四集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20191005/L0z1Kevj/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第十五集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20191008/2IJrtReL/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第十六集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20191009/WAdenQfC/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第十七集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20191010/9kNtUVgv/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第十八集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20191011/jtlFMLwK/900kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第十九集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v1.szjal.cn/20191012/Unb5bUH5/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/25hbc0FK/image.jpg" group-title="今宵大厦", 今宵大厦 【第二十集】
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://v7.monidai.com/20191014/NytsnOQi/900kb/hls/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 

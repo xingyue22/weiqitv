@@ -22,8 +22,13 @@ https://v3.dious.cc/20220331/UlrAF53q/2000kb/hls/index.m3u8
 https://v3.dious.cc/20220331/i7S6jKV7/2000kb/hls/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MpF8XL56/75bd9d9a6ac8c5596914e61f493b3741.jpg" group-title="我叫赵甲第", 我叫赵甲第【第四集】
-https://v3.dious.cc/20220331/cMKtjsoG/index.m3u8
+https://v3.dious.cc/20220331/cMKtjsoG/2000kb/hls/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MpF8XL56/75bd9d9a6ac8c5596914e61f493b3741.jpg" group-title="我叫赵甲第", 我叫赵甲第【第五集】
+https://v3.dious.cc/20220401/rqLT7R1Z/2000kb/hls/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MpF8XL56/75bd9d9a6ac8c5596914e61f493b3741.jpg" group-title="我叫赵甲第", 我叫赵甲第【第六集】
+https://v3.dious.cc/20220401/TQijdB3W/2000kb/hls/index.m3u8
 
 
 

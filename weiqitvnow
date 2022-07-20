@@ -413,7 +413,7 @@ HONGKONG Channels
 http://iptv.tvfix.org/hls/jade.m3u8#http://206.119.173.184/tv/js.php?id=7#http://50.7.218.42:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 
 #EXTINF:-1 tvg-logo="https://img.meituan.net/csc/6292bc0589de34cf5f763f0a0b7b63d014514.jpg" group-title="中港台频道",TVB明珠台
-http://iptv.tvfix.org/hls/pearl2.m3u8
+http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2j2hkfT9/download-1-removebg-preview-1.png" group-title="中港台频道",TVB功夫台
 http://iptv.tvfix.org/hls/tvbkf.m3u8
@@ -442,6 +442,9 @@ http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5959d3ZY/icon.png" group-title="中港台频道",香港开电视 
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTppmtoOYDJUy79AqeHJE_8xph9WN8yNIKGJL7B=s900-c-k-c0x00ffffff-no-rj" group-title="中港台频道",面包台 
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7XhXykx/mango-tv-removebg-preview.png" group-title="中港台频道",芒果 TV
 http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1

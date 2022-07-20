@@ -970,79 +970,21 @@ DONGMAN
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,黑莓动漫
-http://111.40.196.9/PLTV/88888888/224/3221225628/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8#http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,经典动漫
+http://epg.112114.xyz/douyu/9455567
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,浙江动漫
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,卡酷动漫
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,中华小当家
+https://epg.112114.xyz/huya/11342413
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,南京动漫
-http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,福州动漫
-http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,优漫动漫
-http://39.135.138.60:18890/PLTV/88888888/224/3221225665/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,新科动漫
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
-
-#EXTINF:-1 group-title="动漫频道" tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png",动漫秀场
-http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-
-#EXTINF:-1 tvg-id="ATX.JP" tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道",AT-X动漫
-https://sub2.neetball.net/live/neet.m3u8
-
-#EXTINF:-1 group-title="动漫频道" tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png",Animax动漫
-http://iptv.tvfix.org/hls/animax.m3u8
-#EXTINF:-1 tvg-id="ATX.JP" tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道",Anime-TV动漫
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ATX.JP" tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道",AniBox-TV动漫
-https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 动漫影院
-https://65537ff319007c0310e1b87d7061588a.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_314628848.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 国产动漫
-http://39.135.55.105:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1#百事通动漫
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 精选动漫
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 经典卡通
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 美国卡通
-http://39.135.55.105:6610/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 斗鱼动漫
-http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv#http://epg.112114.xyz/douyu/206858
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 全职猎人
-http://dyscdnali1.douyucdn.cn/live/6610883rdSnhO6m2.flv
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 名侦探柯南一台
-https://65537ff319007c0310e1b87d7061588a.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_616512747.m3u8#斗鱼
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 名侦探柯南二台
-https://65537ff319007c0310e1b87d7061588a.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_410903700.m3u8#斗鱼
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,哆啦A梦
+http://zzy789.xyz/bili.php?id=6419694
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 蜡笔小新
 http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8#斗鱼
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 日本动漫
-http://39.135.55.105:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1#百事通动漫
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,UTV优视影
-http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshiyy/index.m3u8?IASHttpSessionId=OTT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,UTV优视教
-http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshijy/index.m3u8?IASHttpSessionId=OTT
 
 
 

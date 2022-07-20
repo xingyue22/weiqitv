@@ -971,7 +971,7 @@ DONGMAN
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,经典动漫
-http://epg.112114.xyz/douyu/9455567
+http://zzy789.xyz/bili.php?id=279430
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,浙江动漫
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
@@ -982,8 +982,23 @@ https://epg.112114.xyz/huya/11342413
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,哆啦A梦
 http://zzy789.xyz/bili.php?id=6419694
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,VIP 蜡笔小新
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,蜡笔小新
 http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8#斗鱼
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,樱桃小丸子
+http://zzy789.xyz/bili.php?id=23242774
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,七龍珠改
+https://epg.112114.xyz/huya/11601966
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,名侦探柯南
+http://zzy789.xyz/bili.php?id=181453
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,汤姆和杰瑞
+http://epg.112114.xyz/douyu/7888428
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,海贼王
+https://epg.112114.xyz/huya/16913382
 
 
 

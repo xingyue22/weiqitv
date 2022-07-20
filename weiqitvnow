@@ -410,10 +410,10 @@ HONGKONG Channels
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/pcccw/Ark/main/EPG/guide_71.xml"
 
 #EXTINF:-1 tvg-logo="https://www.bwbeauty.com.hk/wp-content/uploads/2017/07/TVB_Jade.png" group-title="中港台频道",TVB翡翠台
-http://iptv.tvfix.org/hls/jade.m3u8#http://206.119.173.184/tv/js.php?id=7#http://50.7.218.42:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.meituan.net/csc/6292bc0589de34cf5f763f0a0b7b63d014514.jpg" group-title="中港台频道",TVB明珠台
-http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+http://radius.8866.org:880/hls/84/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2j2hkfT9/download-1-removebg-preview-1.png" group-title="中港台频道",TVB功夫台
 http://iptv.tvfix.org/hls/tvbkf.m3u8
@@ -447,7 +447,7 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7XhXykx/mango-tv-removebg-preview.png" group-title="中港台频道",芒果 TV
-http://livetv.dnsfor.me:80/channel.3.m3u8
+http://51.222.193.142:10011/8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" group-title="中港台频道",凤凰卫视
 

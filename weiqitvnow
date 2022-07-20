@@ -477,7 +477,7 @@ http://50.7.218.42:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&c
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5WWxf1V/images-removebg-preview.png" group-title="中港台频道" ,CCTV6 电影
-http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png" group-title="中港台频道" ,三立台灣台
 http://59.125.101.187:8519/playlist.m3u8
@@ -504,7 +504,7 @@ http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8#http://39.134.66.66/
 http://111.40.196.9/PLTV/88888888/224/3221225612/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 热播精选
-http://111.40.196.9/PLTV/88888888/224/3221225624/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 明星大片
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
@@ -557,14 +557,13 @@ rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXWmrn2f/download-1-removebg-preview.png" group-title="中港台频道",CHC 高清电影
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://117.148.179.154/PLTV/88888888/224/3221232945/index.m3u8?zyangd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgbpj3hh/images-1-removebg-preview.png" group-title="中港台频道",CHC 动作电影
-http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+http://117.148.179.154/PLTV/88888888/224/3221231580/index.m3u8?zyangd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d01D77Qk/1-1-Z40613520-I39-removebg-preview.png" group-title="中港台频道",CHC 家庭电影
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动FHD#http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8
-
+http://117.148.179.154/PLTV/88888888/224/3221232942/index.m3u8?zyangd
 
 
 Koreajapan
@@ -979,8 +978,8 @@ http://zzy789.xyz/bili.php?id=21751462
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,浙江动漫
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,中华小当家
-https://epg.112114.xyz/huya/11342413
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,搞笑的一家人
+https://epg.112114.xyz/huya/11342402
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,哆啦A梦
 http://zzy789.xyz/bili.php?id=6419694
@@ -1002,18 +1001,6 @@ https://epg.112114.xyz/huya/16913382
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,中华一番
 http://zzy789.xyz/bili.php?id=655291
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,海贼团
-http://epg.112114.xyz/douyu/997925
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1063,10 +1050,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XYxmWXY/109951163707910339-removebg-preview.png" group-title="娱乐频道" , 韩国综艺
-http://dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv
+http://epg.112114.xyz/douyu/7298973
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XYxmWXY/109951163707910339-removebg-preview.png" group-title="娱乐频道" ,韩国女团一组
-http://dyscdnali1.douyucdn.cn/live/17732rtara.flv
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XYxmWXY/109951163707910339-removebg-preview.png" group-title="娱乐频道" ,VIP 电竞
-http://39.135.55.105:6610/PLTV/88888888/224/3221225894/index.m3u8?servicetype=1

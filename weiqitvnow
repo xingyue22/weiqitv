@@ -971,7 +971,7 @@ DONGMAN
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,经典动漫
-http://zzy789.xyz/bili.php?id=279430
+http://zzy789.xyz/bili.php?id=21751462
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,浙江动漫
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
@@ -994,11 +994,17 @@ https://epg.112114.xyz/huya/11601966
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,名侦探柯南
 http://zzy789.xyz/bili.php?id=181453
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,汤姆和杰瑞
-http://epg.112114.xyz/douyu/7888428
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,海贼王
 https://epg.112114.xyz/huya/16913382
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,中华一番
+http://zzy789.xyz/bili.php?id=655291
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP6VQZ6V/images-1-removebg-preview-1.png" group-title="动漫频道" ,海贼团
+http://epg.112114.xyz/douyu/997925
+
+
+
 
 
 

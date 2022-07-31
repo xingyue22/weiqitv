@@ -8,6 +8,8 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-ID="RTMTV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png" group-title="马来西亚频道", TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
  
+ #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+ #EXTVLCOPT:http-referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="马来西亚频道",TV3
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
  
@@ -23,8 +25,11 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="马来西亚频道",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
  
+ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.dailymotion.com 
 #EXTINF:-1 tvg-ID="DramaSangat.my" tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" group-title="马来西亚频道",DRAMA SANGAT
-https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0r2zOI8JWthJF9EOWG3-EsQ)/dm/3/x6zvnex/s/live-2.m3u8#cell=lsg1
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=dramasangat
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

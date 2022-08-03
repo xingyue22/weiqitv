@@ -73,7 +73,7 @@ http://59.125.101.187:8616/playlist.m3u8
 http://60.250.91.85:8590/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="马来西亚频道",HBO(中文字幕）
-http://59.125.101.187:8615/playlist.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=15
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

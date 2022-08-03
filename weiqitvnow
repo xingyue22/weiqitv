@@ -430,10 +430,10 @@ HONGKONG Channels
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/pcccw/Ark/main/EPG/guide_71.xml"
 
 #EXTINF:-1 tvg-logo="https://www.bwbeauty.com.hk/wp-content/uploads/2017/07/TVB_Jade.png" group-title="中港台频道",TVB翡翠台
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+http://51.79.193.108:8080/hls/ph00455/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.meituan.net/csc/6292bc0589de34cf5f763f0a0b7b63d014514.jpg" group-title="中港台频道",TVB明珠台
-http://radius.8866.org:880/hls/84/index.m3u8
+http://iptv.tvfix.org/hls/jadenhk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2j2hkfT9/download-1-removebg-preview-1.png" group-title="中港台频道",TVB功夫台
 http://iptv.tvfix.org/hls/tvbkf.m3u8

@@ -61,7 +61,9 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 group-title="马来西亚频道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png",星衛HD電影台
-http://data.3g.yy.com/live/hls/29900720/29900720
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
 #EXTINF:-1 group-title="马来西亚频道" tvg-logo="https://i.postimg.cc/0Q7xWm9B/Star-chinese-movies-2012-removebg-preview.png",衛視HD電影台
 http://59.125.101.187:8598/playlist.m3u8#http://iptv.tvfix.org/hls/starmovies.m3u8

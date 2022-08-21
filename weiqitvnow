@@ -68,7 +68,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 #EXTINF:-1 group-title="马来西亚频道" tvg-logo="https://i.postimg.cc/7Z9ZnBdV/images-removebg-preview.png",ASTRO AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2400
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41_nxifvQd-Nk1Ttoh9Oi6kwbM84oh2Xo9Jek0v8Iww3c=SqBL/dash-wv/jitp-linearwm/2400/default_primary.mpd
 
 #EXTINF:-1 group-title="马来西亚频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",衛視西片HD電影台
 http://59.125.101.187:8616/playlist.m3u8

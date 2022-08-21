@@ -527,31 +527,31 @@ rtmp://59.124.75.138/sat/tv111
 http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LSzMkH4/imageedit-4-4101948605.png" group-title="中港台频道" ,NewTV 动作电影
-http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
+#http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5rzGjgC/imageedit-2-4202058633.png" group-title="中港台频道" ,NewTV 中国功夫
-http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+#http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 精品大剧
-http://111.40.196.9/PLTV/88888888/224/3221225612/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#http://111.40.196.9/PLTV/88888888/224/3221225612/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 热播精选
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 明星大片
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 惊悚悬疑
-http://111.40.196.9/PLTV/88888888/224/3221225638/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225638/index.m3u8
+#http://111.40.196.9/PLTV/88888888/224/3221225638/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225638/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 古装剧场
-http://111.40.196.9/PLTV/88888888/224/3221225618/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+#http://111.40.196.9/PLTV/88888888/224/3221225618/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 爱情喜剧
-http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 家庭剧场
-http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+#http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 超级电视剧
 http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
@@ -560,42 +560,42 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8#http://39.134
 #http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 金牌综艺 
-http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+#http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6T1kVZ/imageedit-1-7287567920.png" group-title="中港台频道" ,NewTV 欢乐剧场 
-http://39.135.138.60:18890/PLTV/88888888/224/3221226210/index.m3u8
+#http://39.135.138.60:18890/PLTV/88888888/224/3221226210/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5280QrMG/Capture1-removebg-preview.png" group-title="中港台频道",北京IPTV4K
-http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJGWWxMt/Capture-removebg-preview-1.png" group-title="中港台频道",北京IPTV淘电影
-http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
 #EXTINF:-1 tvg-logo="https://www.right.com.cn/FORUM/data/attachment/forum/202110/28/121130dduqqddlo0xhqw2l.png" group-title="中港台频道",北京IPTV淘剧场
-http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXrjZTKh/1-2010041616070-L-removebg-preview.png" group-title="中港台频道",北京IPTV淘娱乐
-http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
 
 #EXTINF:-1 tvg-logo="http://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="中港台频道",东森洋片台
-http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+#http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 
 #EXTINF:-1 tvg-logo="https://truth.bahamut.com.tw/s01/201807/50067ddb6c3199f03d7d4f637ba502df.PNG" group-title="中港台频道",东森电影台
-http://50.7.218.42:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+#http://50.7.218.42:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8zFQSWP/png-transparent-movie-time-graphic-film-cinema-logo-film-elements-cdr-food-text-removebg-preview.png" group-title="中港台频道",私人影院
-rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
+#rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXWmrn2f/download-1-removebg-preview.png" group-title="中港台频道",CHC 高清电影
-http://117.148.179.154/PLTV/88888888/224/3221232945/index.m3u8?zyangd
+#http://117.148.179.154/PLTV/88888888/224/3221232945/index.m3u8?zyangd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgbpj3hh/images-1-removebg-preview.png" group-title="中港台频道",CHC 动作电影
-http://117.148.179.154/PLTV/88888888/224/3221231580/index.m3u8?zyangd
+#http://117.148.179.154/PLTV/88888888/224/3221231580/index.m3u8?zyangd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d01D77Qk/1-1-Z40613520-I39-removebg-preview.png" group-title="中港台频道",CHC 家庭电影
-http://117.148.179.154/PLTV/88888888/224/3221232942/index.m3u8?zyangd
+#http://117.148.179.154/PLTV/88888888/224/3221232942/index.m3u8?zyangd
 
 
 Koreajapan

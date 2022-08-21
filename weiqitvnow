@@ -479,7 +479,7 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7XhXykx/mango-tv-removebg-preview.png" group-title="中港台频道",芒果 TV
-http://51.222.193.142:10011/8
+http://livetv.dnsfor.me:80/channel.3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" group-title="中港台频道",凤凰卫视
 

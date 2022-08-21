@@ -703,7 +703,7 @@ Indonesia Channels
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="印度尼西亚频道",INDOSIAR
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="印度尼西亚频道",INDOSIAR
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -711,7 +711,7 @@ https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="印度尼西亚频道",NET
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="印度尼西亚频道",SCTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="印度尼西亚频道",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

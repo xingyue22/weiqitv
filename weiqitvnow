@@ -60,7 +60,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #EXTINF:-1 group-title="马来西亚频道" tvg-logo="https://i.postimg.cc/W4LGWLvk/CELESTIAL-CLASSIC-MOVIES-logo-removebg-preview.png",天映经典频道
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 group-title="马来西亚频道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png",星衛HD電影台
+#EXTINF:-1 group-title="马来西亚频道" tvg-logo="https://i.postimg.cc/hvmG8KRz/Astro-Xiao-Tai-Yang-removebg-preview.png",ASTRO 小太阳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd

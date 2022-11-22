@@ -26,7 +26,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
  
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="马来西亚频道",8TV
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHT-72laPX330QO5Vl8_KPbLq9d_Vvi6c63ZNThJ7-qoQ)/dm/3/x6qud17/s/live-2.m3u8 
+https://www.dailymotion.com/player/metadata/video/kdFzSYy1bHxrForBrar?embedder=https%3A%2F%2Fwww.xtra.com.my%2Flive-tv&referer=&
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="马来西亚频道",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
@@ -716,17 +716,21 @@ http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/54246
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="印度尼西亚频道",INDOSIAR
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="印度尼西亚频道",NET
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="印度尼西亚频道",SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

@@ -37,7 +37,15 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 #EXTINF:-1 ch-number="123" tvg-id="BERITARTM" tvg-chno="123" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Berita_RTM_v1.png/revision/latest/scale-to-width-down/250?cb=20210504032200" group-title="Malaysia",Berita Rtm HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
+
+
+
+
+
+
 SG Channel
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml" refresh="1440" max-conn="1" refresh="24"
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEcDB4WnVSelc4UnVlZ1dCOFJsQ1M2R2VRZXpWcDFlaUNvQnJGZzFmTFhDVEw1OFJVQXJVT0c0WTZuckdzcFk4TjFqWTZxRHhHWEhnd1NVYjlpMjl0UmhCV1Vwc1JYQ1I1bmluVk9nMktYTHh6WV9XOUVza2lDRF9kSDFDWXVpOVhwMC1nbWNYbmdBMUFHZFhuT2NNYjU4SWl2Y0xLV2pBUzU5TDJnWGx5bHYtcHdJY1NiRlBGQl9YQ2Rqb2NscTFlMWVob0lyNXhGSDBHV1d1cnlKMEN5bEtKUGJUUFB1OHdJZXFDcjlla2llS2ZBYUFrUG4xbFhNcjRRVFVueThuQWVVaE02UUM0MWhHV3BCRmxIQkNjbW1DT2NRQVI0TmNTTnFVWUFtS2FlNi1pN1I5dGlwUDE5bEg0djI5Zjd3dHhzWXVBNC1SeVRkSDlaTVdXSzJVbG89JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRHAweFp1UnpXOFJ1ZWdXQjhSbENTNkdlUWV6VnAxZWlDb0JyRmcxZkxYQ1RMNThSVUFyVU9HNFk2bnJHc3BZOE4xalk2cUR4R1hIZ3dTVWI5aTI5dFJoQldVcHNSWENSNW5pblZPZzJLWEx4ellfVzlFc2tpQ0RfZEgxQ1l1aTlYcDAtZ21jWG5nQTFBR2RYbk9jTWI1OElpdmNMS1dqQVM1OUwyZ1hseWx2LXB3SWNTYkZQRkJfWENkam9jbHExZTFlaG9JcjV4RkgwR1dXdXJ5SjBDeWxLSlBiVFBQdTh3SWVxQ3I5ZWtpZUtmQWFBa1BuMWxYTXI0UVRVbnk4bkFlVWhNNlFDNDFoR1dwQkZsSEJDY21tQ09jUUFSNE5jU05xVVlBbUthZTYtaTdSOXRpcFAxOWxINHYyOWY3d3R4c1l1QTQtUnlUZEg5Wk1XV0syVWxvPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=jOO8kIYJFp7AfJXK5Za0FDCKWWM%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel5.sg" tvg-chno="Channel5.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
